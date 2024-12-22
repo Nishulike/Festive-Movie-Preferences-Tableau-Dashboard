@@ -1,9 +1,9 @@
 # Festive-Movie-Preferences-Tableau-Dashboard
-Overview
+# Overview:-
 
 The Festive Movie Preference Tableau Dashboard provides an in-depth content analysis of movies and TV shows available on Netflix. This dashboard is designed to highlight trends and insights related to festive movie preferences, offering valuable data-driven visuals for decision-makers, enthusiasts, and researchers.
 
-Objectives
+# Objectives
 
 Understand viewing preferences for festive-themed movies and TV shows on Netflix.
 
@@ -11,25 +11,9 @@ Identify key genres, regions, and time trends that shape festive content.
 
 Assist content creators in tailoring offerings for festive seasons.
 
-Dataset
 
-This project uses the Netflix dataset, which includes:
 
-Movie/TV Show Title: The name of the content.
-
-Release Year: The year the content was released.
-
-Genre: The category or type of content.
-
-Country: The region(s) where the content was produced.
-
-Duration: The runtime for movies or the number of seasons for TV shows.
-
-Rating: Age classification of the content.
-
-Description: A brief synopsis of the content.
-
-Features of the Dashboard
+# Features of the Dashboard
 
 Genre Analysis
 
@@ -61,7 +45,7 @@ Compare average movie durations and TV show season lengths.
 
 Highlight patterns in festive content formats.
 
-Tools Used
+# Tools Used :-
 
 Tableau: For data visualization and interactive dashboard creation.
 
