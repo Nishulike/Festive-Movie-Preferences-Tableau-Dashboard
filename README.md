@@ -1,15 +1,21 @@
 # Festive Movie Preference Tableau Dashboard ✨
 
 ## Overview 🎥
-The Festive Movie Preference Tableau Dashboard provides an in-depth content analysis of movies and TV shows available on Netflix. This dashboard is designed to highlight trends and insights related to festive movie preferences, offering valuable data-driven visuals for decision-makers, enthusiasts, and researchers.
+The Festive Movie Preference Tableau Dashboard provides an in-depth content analysis of movies and TV shows available on Netflix. This dashboard highlights trends and insights related to festive movie preferences, offering valuable data-driven visuals for decision-makers, enthusiasts, and researchers.
 
 ## Objectives 🌟
 - **Understand viewing preferences** for festive-themed movies and TV shows on Netflix.
 - **Identify key genres, regions, and time trends** that shape festive content.
 - **Assist content creators** in tailoring offerings for festive seasons.
 
+## Dashboard Preview 🖥️
+
+![Dashboard 1](https://github.com/user-attachments/assets/6bd66758-276b-4bd6-a711-5584658286ac)
+![Dashboard 2](https://github.com/user-attachments/assets/092cb207-e162-4cc0-91c1-b71538c56e68)
+
+
 ## Dataset 📂
-This project uses the Netflix dataset, which includes:
+The project uses a Netflix dataset with the following fields:
 - **Movie/TV Show Title**: The name of the content.
 - **Release Year**: The year the content was released.
 - **Genre**: The category or type of content.
@@ -56,9 +62,9 @@ This project uses the Netflix dataset, which includes:
 
 ## Contact 📧
 For any queries or suggestions, feel free to contact us:
-- **Email**: nisteshdhande11@gmail.com 📧
-- **LinkedIn**: https://www.linkedin.com/in/nitesh-dhande-854674296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 🔗
-
+- **Email**: [nisteshdhande11@gmail.com](mailto:nisteshdhande11@gmail.com)
+- **LinkedIn**: [Nitesh Dhande](https://www.linkedin.com/in/nitesh-dhande-854674296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
+
 Thank you for exploring the Festive Movie Preference Tableau Dashboard. We hope it provides valuable insights for your analysis and decision-making. 🌟
