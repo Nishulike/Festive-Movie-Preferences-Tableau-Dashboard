@@ -8,6 +8,9 @@ The Festive Movie Preference Tableau Dashboard provides an in-depth content anal
 - **Identify key genres, regions, and time trends** that shape festive content.
 - **Assist content creators** in tailoring offerings for festive seasons.
 
+## Video Explanation  🎥
+https://youtu.be/oQvENOL6Be4?si=Iu0mJJCHyyGvXeFq
+
 ## Dashboard Preview 🖥️
 
 ![Dashboard 1](https://github.com/user-attachments/assets/6bd66758-276b-4bd6-a711-5584658286ac)
