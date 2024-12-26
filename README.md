@@ -65,7 +65,7 @@ The project uses a Netflix dataset with the following fields:
 
 ## Contact 📧
 For any queries or suggestions, feel free to contact us:
-- **Email**: [nisteshdhande11@gmail.com](mailto:nisteshdhande11@gmail.com)
+- **Email**: [nishdhande11@gmail.com](mailto:nishdhande11@gmail.com)
 - **LinkedIn**: [Nitesh Dhande](https://www.linkedin.com/in/nitesh-dhande-854674296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
